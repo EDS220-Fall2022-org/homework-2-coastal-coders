@@ -1,28 +1,14 @@
-# EDS220_Fall2022_HW2
-### Information needed for HW2 and final project for EDS 220, Fall 2022
+# Exploring Marine Protected Areas
+## EDS220_Fall2022 Final Project
 
-This repository contains useful template information for working on assignments for EDS 220 Working With Environmental Data at UC Santa Barbara (Fall 2021 quarter). 
+The purpose of this repository is to provide a walk-through of how to utilize NOAA's marine protected area dataset located at https://marineprotectedareas.noaa.gov/dataanalysis/mpainventory/. There are many packages that can potentially be used to visualize this dataset, but we chose a handy one called 'folium'. Folium is a python library built off a JavaScript Library called Leaflet. Both of these packages are free, open-source libraries that allow the user to create maps and visualize data in a similar way to google maps. This dataset could be very useful to any user who would like to visualize MPAs, and overlay other data on top of this, potentially a time-series dataset, to examine the effect of MPAs on factors such as fishing, IUCN marine species risk status, ocean acidification, changes in sea surface temperature... among many others. Ultimately, we hope that this notebook will be a useful educational tool for those looking to explore this dataset. 
 
-Contents:
-- HW2_template.ipynb: Template Jupyter notebook for use in Homework 2 and final project
-- environment.yml: Template environment file for use in creating Binder environment for running Jupyter notebook
+#Authors:
 
-Information for Homework 2:
-- Due date = **Friday, November 18**
-- Deliverables:
-   - Jupyter notebook template - complete sections through "Metadata and Basic Visualization"
-   - Any necessary data or supporting files included in the repo
-   - README file edited to be appropriate for your project
-
-
-Information for final project:
-- Presentation dates: **Nov 29; Dec 1**
-- Final writeup hand-in date: **Dec 5**
-- Deliverables (for in-class presentation):
-  - Jupyter notebook - all sections completed, initial sections edited to reflect grade feedback
-  - Binder environment compiled to allow others to run code easily
-  - Group-led presentation on assigned date
-
-- Deliverables (for final writeup):
-  - Jupyter notebook, supporting data files, Binder environment, and README in repo
-  - Edits reflecting student and instructor feedback can be made until due date
+ Colleen McCamy, Master of Environmental Data Science Student, (colleenmccamy@bren.ucsb.edu)
+ 
+ Atahualpa Gomez, Master of Environmental Data Science Student, (atahualpa@ucsb.edu)
+ 
+ Jared Petry, Master of Environmental Data Science Student, (jaredpetry@ucsb.edu)
+ 
+ Adelaide Robinson, Master of Environmental Data Science Student, (adelaide_robinson@ucsb.edu)
